@@ -1,3 +1,3 @@
-# Archlinux CMAKE GitHub Action
+# Archlinux GitHub Action
 
 Use args to specify environment.
